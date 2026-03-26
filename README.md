@@ -35,4 +35,5 @@ Outputs are written to a results folder defined in the *main.m* file.
 
 ## Citation
 If you find this software useful for your project or research. Please give some credits to authors who developed it by citing some of the following papers. We really appreciate that.
+
 Jan Sedlacik, Kathryn A. McGurk, Paweł F. Tokarczuk, Ben Statton, Alaine Berry, Massimo Marenzana, Declan P. O’Regan. Quantitative ventricular trabeculation assessment in cardiac MRI: optimised blood-pool segmentation, box-counting fractal analysis and non-fractal measurements. International Journal of Cardiovascular Imaging, 2026. https://doi.org/10.1007/s10554-026-03687-9
