@@ -5,9 +5,11 @@ Derived from [UK-Digital-Heart-Project/AutoFD Version 2.0](https://doi.org/10.52
 
 ## Method
 Please see the following manuscript for further information:
+https://doi.org/10.1007/s10554-026-03687-9
 
 ## Installation and Usage
-Clone this repo locally on your CPU-strong computational server and follow the comments in the *main.m* file.
+Clone this repo locally on your CPU-strong computational server and follow the comments in the *main.m* file. The code was tested for Matlab version R2020b running on Ubuntu 22.04.5 LTS.
+**Disclaimer:** The consolidation of the single subject csv-files calls non-Windows command line tools. Windows users need to install Cygwin, MinGW or WSL and modify the code to be able to run the non-Windows command line tools.
 
 All the source data needs to be in one folder with sub-folders for each subject containing:
 
